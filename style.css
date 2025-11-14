@@ -79,11 +79,12 @@ h2 {
   position: absolute;
   bottom: 0;
   left: 0;
-}
-
-.form-control.hidden small {
   visibility: hidden;
 }
+
+/* .form-control.hidden small {
+  visibility: hidden;
+} */
 
 .form button {
   cursor: pointer;
